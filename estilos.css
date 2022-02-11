@@ -1,0 +1,15 @@
+.grid-container {
+  margin: 0 auto;
+}
+
+.grid-item {
+  width: 230px;
+  margin-bottom: 40px;
+  border-radius: 15px;
+  cursor: zoom-in;
+  background-color: lightgray;
+}
+
+.grid-item:hover {
+  filter: opacity(0.9);
+}
